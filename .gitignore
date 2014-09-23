@@ -1,4 +1,7 @@
-*\__history/*
-*\Win32
+*/__history/*
+*/__history/*
+*/__history/*
+*/__history/*
+*/Win32
 *.local
 *.identcache
