@@ -1,0 +1,17 @@
+Fazer um programa em delphi
+
+--------------------
+1 - Solicite uma data de nascimento
+2 - Exiba o número de cada ocorrência nos dias da semana
+
+
+--------------------
+1 - Solicite um valor
+2 - Solicite um número de parcelas
+3 - Calcule e exiba o valor e as datas de vencimento das N parcelas, a partir da
+	data atual, incrementando 1 mês
+
+
+--------------------
+1 - Solicite uma data de nascimento;
+2 - Calcule a idade em dias, semanas, meses e anos;
